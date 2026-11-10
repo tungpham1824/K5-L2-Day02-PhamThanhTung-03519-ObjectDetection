@@ -4,11 +4,11 @@
 
 ## 1. Thông tin học viên
 
-- Họ tên:
-- MSSV:
-- Email:
-- Lớp:
-- Link repo bài làm:
+- Họ tên:Phạm Thanh Tùng 
+- MSSV:03159        
+- Email:tungpham1824@gmail.com
+- Lớp:K5-L2A
+- Link repo bài làm:https://github.com/tungpham1824/K5-L2-Day02-Pham-Thanh-Tung-03519-ObjectDetection.git
 - Link Colab đã chạy:
 
 ## 2. Schema và mini guideline
