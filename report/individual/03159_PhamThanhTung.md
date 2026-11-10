@@ -8,7 +8,7 @@
 - MSSV:03159        
 - Email:tungpham1824@gmail.com
 - Lớp:K5-L2A
-- Link repo bài làm:https://github.com/tungpham1824/K5-L2-Day02-Pham-Thanh-Tung-03519-ObjectDetection.git
+- Link repo bài làm: https://github.com/tungpham1824/K5-L2-Day02-PhamThanhTung-03519-ObjectDetection.git
 - Link Colab đã chạy:https://colab.research.google.com/drive/1aF--4NcgiNCJki9rooyk0P837ioOGS7q
 
 ## 2. Schema và mini guideline
