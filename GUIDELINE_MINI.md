@@ -23,4 +23,4 @@
 | --- | --- | --- | --- |
 | `drive_050` |Hai xe xám ở giữa ảnh, thân hộp, nóc cao, ở xa nên khó phân biệt van với car dạng SUV/MPV. |van, mỗi xe một box. |Cao và vuông hơn sedan xung quanh, nhỏ hơn xe buýt. |
 | `drive_049` |Xe ở mép dưới và góc phải bị cắt bởi rìa ảnh, một xe hơi nhòe. |car, box chạm đúng rìa ảnh. |Theo quy tắc rìa ảnh, không đoán phần ngoài ảnh. Nóc thấp, không có thân hộp của van. |
-| `drive_044` | Xe xám ở giữa-trái bị nhòe do chuyển động, khó xác định van hay car.|Không chắc thì bỏ qua và ghi vào bảng ca mơ hồ. |Theo quy tắc “mơ hồ thì không tự đoán”. |
+| `drive_044` | Xe xám ở giữa-trái bị nhòe do chuyển động, khó xác định van hay car.|Không vẽ box|Theo quy tắc “mơ hồ thì không tự đoán”. |
